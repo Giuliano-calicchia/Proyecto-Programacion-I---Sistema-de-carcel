@@ -1,0 +1,19 @@
+Prisionero: 42370, Numero de preso: 1, causa de arresto: Hurto menor, tiempo de condena: 5, ubicacion: 2 piso, 1 celda.
+Prisionero: 96007, Numero de preso: 2, causa de arresto: Secuestro, tiempo de condena: 10, ubicacion: 3 piso, 3 celda.
+Prisionero: 75796, Numero de preso: 3, causa de arresto: Asalto con herido, tiempo de condena: 11, ubicacion: 3 piso, 3 celda.
+Prisionero: 24982, Numero de preso: 4, causa de arresto: Vandalismo, tiempo de condena: 2, ubicacion: 1 piso, 1 celda.
+Prisionero: 84249, Numero de preso: 5, causa de arresto: Asesinato, tiempo de condena: 12, ubicacion: 3 piso, 3 celda.
+Prisionero: 42926, Numero de preso: 6, causa de arresto: Hurto menor, tiempo de condena: 8, ubicacion: 2 piso, 1 celda.
+Prisionero: 44084, Numero de preso: 7, causa de arresto: Hurto menor, tiempo de condena: 7, ubicacion: 2 piso, 1 celda.
+Prisionero: 85307, Numero de preso: 8, causa de arresto: Asesinato, tiempo de condena: 8, ubicacion: 2 piso, 3 celda.
+Prisionero: 75852, Numero de preso: 9, causa de arresto: Asalto con herido, tiempo de condena: 7, ubicacion: 2 piso, 3 celda.
+Prisionero: 28280, Numero de preso: 10, causa de arresto: Vandalismo, tiempo de condena: 2, ubicacion: 1 piso, 1 celda.
+Prisionero: 28408, Numero de preso: 11, causa de arresto: Vandalismo, tiempo de condena: 4, ubicacion: 1 piso, 1 celda.
+Prisionero: 94804, Numero de preso: 12, causa de arresto: Secuestro, tiempo de condena: 9, ubicacion: 3 piso, 2 celda.
+Prisionero: 66912, Numero de preso: 13, causa de arresto: Robo a mano armada, tiempo de condena: 6, ubicacion: 2 piso, 3 celda.
+Prisionero: 41825, Numero de preso: 14, causa de arresto: Hurto menor, tiempo de condena: 5, ubicacion: 2 piso, 2 celda.
+Prisionero: 22626, Numero de preso: 15, causa de arresto: Vandalismo, tiempo de condena: 2, ubicacion: 1 piso, 2 celda.
+Prisionero: 74987, Numero de preso: 16, causa de arresto: Asalto con herido, tiempo de condena: 7, ubicacion: 2 piso, 2 celda.
+Prisionero: 39151, Numero de preso: 17, causa de arresto: Porte de sustancias ilegales, tiempo de condena: 3, ubicacion: 1 piso, 2 celda.
+Prisionero: 67703, Numero de preso: 18, causa de arresto: Robo a mano armada, tiempo de condena: 6, ubicacion: 2 piso, 2 celda.
+Prisionero: 55032, Numero de preso: 19, causa de arresto: Invasion a la propiedad privada, tiempo de condena: 6, ubicacion: 3 piso, 2 celda.
