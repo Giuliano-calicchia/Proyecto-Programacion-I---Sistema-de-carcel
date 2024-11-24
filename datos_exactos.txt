@@ -1,0 +1,54 @@
+Prisionero: 79108, Numero de preso: 1, causa de arresto: Asalto con herido, tiempo de condena: 7, ubicacion: 3 piso, 4 celda.
+Prisionero: 37501, Numero de preso: 2, causa de arresto: Porte de sustancias ilegales, tiempo de condena: 6, ubicacion: 2 piso, 1 celda.
+Prisionero: 38020, Numero de preso: 3, causa de arresto: Porte de sustancias ilegales, tiempo de condena: 3, ubicacion: 1 piso, 1 celda.
+Prisionero: 92681, Numero de preso: 4, causa de arresto: Secuestro, tiempo de condena: 10, ubicacion: 4 piso, 4 celda.
+Prisionero: 40205, Numero de preso: 5, causa de arresto: Hurto menor, tiempo de condena: 5, ubicacion: 2 piso, 1 celda.
+Prisionero: 78479, Numero de preso: 6, causa de arresto: Asalto con herido, tiempo de condena: 7, ubicacion: 3 piso, 4 celda.
+Prisionero: 79890, Numero de preso: 7, causa de arresto: Asalto con herido, tiempo de condena: 9, ubicacion: 3 piso, 4 celda.
+Prisionero: 56471, Numero de preso: 8, causa de arresto: Invasion a la propiedad privada, tiempo de condena: 8, ubicacion: 3 piso, 4 celda.
+Prisionero: 30488, Numero de preso: 9, causa de arresto: Porte de sustancias ilegales, tiempo de condena: 4, ubicacion: 2 piso, 1 celda.
+Prisionero: 88183, Numero de preso: 10, causa de arresto: Asesinato, tiempo de condena: 9, ubicacion: 3 piso, 3 celda.
+Prisionero: 18679, Numero de preso: 11, causa de arresto: Consumo de sustancias en lugares publicos, tiempo de condena: 2, ubicacion: 1 piso, 1 celda.
+Prisionero: 71197, Numero de preso: 12, causa de arresto: Asalto con herido, tiempo de condena: 12, ubicacion: 4 piso, 4 celda.
+Prisionero: 60574, Numero de preso: 13, causa de arresto: Robo a mano armada, tiempo de condena: 7, ubicacion: 3 piso, 3 celda.
+Prisionero: 25375, Numero de preso: 14, causa de arresto: Vandalismo, tiempo de condena: 3, ubicacion: 1 piso, 1 celda.
+Prisionero: 67743, Numero de preso: 15, causa de arresto: Robo a mano armada, tiempo de condena: 11, ubicacion: 4 piso, 4 celda.
+Prisionero: 69537, Numero de preso: 16, causa de arresto: Robo a mano armada, tiempo de condena: 8, ubicacion: 3 piso, 3 celda.
+Prisionero: 76152, Numero de preso: 17, causa de arresto: Asalto con herido, tiempo de condena: 10, ubicacion: 4 piso, 4 celda.
+Prisionero: 50341, Numero de preso: 18, causa de arresto: Invasion a la propiedad privada, tiempo de condena: 9, ubicacion: 3 piso, 3 celda.
+Prisionero: 87590, Numero de preso: 19, causa de arresto: Asesinato, tiempo de condena: 8, ubicacion: 3 piso, 2 celda.
+Prisionero: 51878, Numero de preso: 20, causa de arresto: Invasion a la propiedad privada, tiempo de condena: 10, ubicacion: 4 piso, 3 celda.
+Prisionero: 58280, Numero de preso: 21, causa de arresto: Invasion a la propiedad privada, tiempo de condena: 6, ubicacion: 2 piso, 4 celda.
+Prisionero: 17450, Numero de preso: 22, causa de arresto: Consumo de sustancias en lugares publicos, tiempo de condena: 2, ubicacion: 1 piso, 1 celda.
+Prisionero: 67882, Numero de preso: 23, causa de arresto: Robo a mano armada, tiempo de condena: 6, ubicacion: 2 piso, 4 celda.
+Prisionero: 90668, Numero de preso: 24, causa de arresto: Secuestro, tiempo de condena: 9, ubicacion: 3 piso, 2 celda.
+Prisionero: 36017, Numero de preso: 25, causa de arresto: Porte de sustancias ilegales, tiempo de condena: 4, ubicacion: 2 piso, 1 celda.
+Prisionero: 73138, Numero de preso: 26, causa de arresto: Asalto con herido, tiempo de condena: 10, ubicacion: 4 piso, 3 celda.
+Prisionero: 89139, Numero de preso: 27, causa de arresto: Asesinato, tiempo de condena: 9, ubicacion: 3 piso, 2 celda.
+Prisionero: 61621, Numero de preso: 28, causa de arresto: Robo a mano armada, tiempo de condena: 7, ubicacion: 3 piso, 2 celda.
+Prisionero: 82360, Numero de preso: 29, causa de arresto: Asesinato, tiempo de condena: 11, ubicacion: 4 piso, 3 celda.
+Prisionero: 53568, Numero de preso: 30, causa de arresto: Invasion a la propiedad privada, tiempo de condena: 6, ubicacion: 2 piso, 4 celda.
+Prisionero: 23234, Numero de preso: 31, causa de arresto: Vandalismo, tiempo de condena: 2, ubicacion: 1 piso, 2 celda.
+Prisionero: 92486, Numero de preso: 32, causa de arresto: Secuestro, tiempo de condena: 10, ubicacion: 4 piso, 3 celda.
+Prisionero: 54471, Numero de preso: 33, causa de arresto: Invasion a la propiedad privada, tiempo de condena: 6, ubicacion: 2 piso, 4 celda.
+Prisionero: 64714, Numero de preso: 34, causa de arresto: Robo a mano armada, tiempo de condena: 6, ubicacion: 2 piso, 3 celda.
+Prisionero: 46035, Numero de preso: 35, causa de arresto: Hurto menor, tiempo de condena: 5, ubicacion: 2 piso, 2 celda.
+Prisionero: 34134, Numero de preso: 36, causa de arresto: Porte de sustancias ilegales, tiempo de condena: 7, ubicacion: 3 piso, 1 celda.
+Prisionero: 40664, Numero de preso: 37, causa de arresto: Hurto menor, tiempo de condena: 7, ubicacion: 3 piso, 1 celda.
+Prisionero: 40153, Numero de preso: 38, causa de arresto: Hurto menor, tiempo de condena: 6, ubicacion: 2 piso, 2 celda.
+Prisionero: 62558, Numero de preso: 39, causa de arresto: Robo a mano armada, tiempo de condena: 6, ubicacion: 2 piso, 3 celda.
+Prisionero: 36447, Numero de preso: 40, causa de arresto: Porte de sustancias ilegales, tiempo de condena: 4, ubicacion: 2 piso, 2 celda.
+Prisionero: 75361, Numero de preso: 41, causa de arresto: Asalto con herido, tiempo de condena: 8, ubicacion: 3 piso, 1 celda.
+Prisionero: 17892, Numero de preso: 42, causa de arresto: Consumo de sustancias en lugares publicos, tiempo de condena: 2, ubicacion: 1 piso, 2 celda.
+Prisionero: 59750, Numero de preso: 43, causa de arresto: Invasion a la propiedad privada, tiempo de condena: 8, ubicacion: 3 piso, 1 celda.
+Prisionero: 52583, Numero de preso: 44, causa de arresto: Invasion a la propiedad privada, tiempo de condena: 10, ubicacion: 4 piso, 2 celda.
+Prisionero: 84457, Numero de preso: 45, causa de arresto: Asesinato, tiempo de condena: 9, ubicacion: 4 piso, 2 celda.
+Prisionero: 39146, Numero de preso: 46, causa de arresto: Porte de sustancias ilegales, tiempo de condena: 7, ubicacion: 4 piso, 1 celda.
+Prisionero: 95473, Numero de preso: 47, causa de arresto: Secuestro, tiempo de condena: 9, ubicacion: 4 piso, 2 celda.
+Prisionero: 44531, Numero de preso: 48, causa de arresto: Hurto menor, tiempo de condena: 5, ubicacion: 2 piso, 2 celda.
+Prisionero: 43767, Numero de preso: 49, causa de arresto: Hurto menor, tiempo de condena: 4, ubicacion: 2 piso, 3 celda.
+Prisionero: 89592, Numero de preso: 50, causa de arresto: Asesinato, tiempo de condena: 8, ubicacion: 4 piso, 2 celda.
+Prisionero: 44921, Numero de preso: 51, causa de arresto: Hurto menor, tiempo de condena: 7, ubicacion: 4 piso, 1 celda.
+Prisionero: 92411, Numero de preso: 52, causa de arresto: Secuestro, tiempo de condena: 9, ubicacion: 4 piso, 1 celda.
+Prisionero: 89980, Numero de preso: 53, causa de arresto: Asesinato, tiempo de condena: 9, ubicacion: 4 piso, 1 celda.
+Prisionero: 48637, Numero de preso: 54, causa de arresto: Hurto menor, tiempo de condena: 7, ubicacion: 2 piso, 3 celda.
